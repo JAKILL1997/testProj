@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/JAKILL1997/testProj'
   s.license          = {:type => 'proprietary', :text => 'Husor Inc. Copyright' }
   s.author           = { 'dan.wang' => 'ke.xu@husor.com' }
-  s.source           = { :git => 'https://github.com/JAKILL1997/testProj.git', :tag => '0.1' }
+  s.source           = { :git => 'https://github.com/JAKILL1997/testProj.git', :tag => '0.1.1}' }
 
   s.ios.deployment_target = '7.0'
 
